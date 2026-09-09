@@ -3,13 +3,13 @@
 
 -html 의 구조
     -html
-    -<h1>
-    -<h2>
-    -<h3>
-    -<!--text-->
-    -<Br>
-    -<head> <\head>
-    -<bady><\bady>
+    -h1
+    -h2
+    -h3
+    -!--text--
+    -Br
+    -head\head
+    -bady\bady
     -
 -
    
